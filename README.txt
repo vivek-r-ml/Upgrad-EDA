@@ -1,5 +1,6 @@
 
 This repository contains my Exploratory Data Analysis (EDA) assignment on the NYC Taxi dataset. 
+
 The goal of this analysis is to uncover key insights, identify patterns, and better understand the behavior of taxi rides across New York City using visualizations and summary statistics.
 
 Contents:
