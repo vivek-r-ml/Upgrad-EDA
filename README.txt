@@ -3,7 +3,7 @@ This repository contains my Exploratory Data Analysis (EDA) assignment on the NY
 
 The goal of this analysis is to uncover key insights, identify patterns, and better understand the behavior of taxi rides across New York City using visualizations and summary statistics.
 
-Contents:
+Contents - Zip file containing:
 1. Jupyter Notebook with the Code. 
 2. Report containing visualizations, analysis, results, insights, and outcomes.
 
